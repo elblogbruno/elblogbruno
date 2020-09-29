@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elblogbruno" alt="elblogbruno" /> </p>
 
-- 🔭 I’m currently working on democratizing mixed reality with [Glassear](www.glassear.com)
+- 🔭 I’m currently working on democratizing mixed reality with [Glassear](https://www.glassear.com)
 
 - 🌱 I’m currently learning **computer vision, python and c#**
 
-- 👨‍💻 All of my projects are available at [www.brunomoya.com](www.brunomoya.com)
+- 👨‍💻 All of my projects are available at [www.brunomoya.com](https://www.brunomoya.com)
 
 - 💬 Ask me about **mixed reality, holograms, ar, vr ...**
 
