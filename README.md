@@ -26,7 +26,7 @@
 
 <p align="center">
 <a href="https://twitter.com/brunomoya6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="brunomoya6" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bruno-moya-785630142/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bruno-moya-785630142/" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/glassear-bruno/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bruno-moya-785630142/" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/6683374" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="6683374" height="30" width="30" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100011744856306" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100011744856306" height="30" width="30" /></a>
 <a href="https://instagram.com/elblogbruno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="elblogbruno" height="30" width="30" /></a>
