@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on democratizing mixed reality with [Glassear](https://www.glassear.com)
 
-- 🌱 I’m currently learning **computer vision, python and c#**
+- 🌱 I’m currently learning **computer vision, python, c# and c++**
 
 - 👨‍💻 All of my projects are available at [www.brunomoya.com](https://www.brunomoya.com)
 
