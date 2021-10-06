@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [www.brunomoya.com](https://www.brunomoya.com)
 
-- 💬 Ask me about **mixed reality, holograms, ar, vr ...**
+- 💬 Ask me about **mixed reality, notion, ar, vr ...**
 
 - 📫 How to reach me **www.brunomoya.com**
 
-- ⚡ Fun fact **I am 19 years old.**
+- ⚡ Fun fact **I am 20 years old.**
 
 ---
 
