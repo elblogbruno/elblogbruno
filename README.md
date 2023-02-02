@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **www.brunomoya.com**
 
-- ⚡ Fun fact **I am 20 years old.**
+- ⚡ Fun fact **I am 21 years old.**
 
 ---
 
